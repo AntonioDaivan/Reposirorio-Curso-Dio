@@ -1,0 +1,7 @@
+Comandos aprendidos:
+
+git init 
+git status (mostra status dos arquivos)
+git add . (adiciona todos os arquivos da pasta, pode ser utilizada a flag -A)
+git commit -m "comentários..." (atualiza os arquivos localmente)
+git push origin main (sobe os arquivos para a nuvem)
